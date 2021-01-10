@@ -1,0 +1,20 @@
+<div class="container mt-5">
+
+  <div *ngIf="character" class="row animate__animated animate__bounce animate__fadeIn">
+    <div class="col-md-9">
+      <p><strong>Id: </strong>{{character.id}}</p>
+      <p><strong>Name: </strong>{{character.name}}</p>
+      <p><strong>Species:</strong>{{character.species}}</p>
+      <p><strong>Gender: </strong>{{character.gender}}</p>
+      <p><strong>Hair: </strong>{{character.hair}}</p>
+      <p><strong>Alias: </strong>{{character.alias}}</p>
+      <p><strong>origin: </strong>{{character.origin}}</p>
+      <p><strong>Abilities: </strong>{{character.abilities}}</p>
+      <img src="{{character.img_url}}" alt="" class="shadow p-3 mb-5 rounded" style="width: 50%;height: 50%;">
+    </div>
+
+    <div class="col-md-3">
+      <a routerLink="/" class="btn btn-danger">Back</a>
+    </div>
+  </div>
+</div>
