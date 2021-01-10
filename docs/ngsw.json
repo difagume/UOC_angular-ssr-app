@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610239827680,
+  "timestamp": 1610240264017,
   "index": "https://difagume.github.io/UOC_angular-ssr-app/index.html",
   "assetGroups": [
     {
@@ -75,7 +75,7 @@
     "https://difagume.github.io/UOC_angular-ssr-app/assets/icons/icon-96x96.png": "1e69accd307c3e5150b99752030eccf8087dfdb4",
     "https://difagume.github.io/UOC_angular-ssr-app/assets/icons/maskable_icon.png": "09b66f72804e8b1fc06ed75dad4dc39b726817ba",
     "https://difagume.github.io/UOC_angular-ssr-app/favicon.ico": "58bf7ca829674d30185aa21c656bca3584e2435e",
-    "https://difagume.github.io/UOC_angular-ssr-app/index.html": "e45432eb4b6b767380d933371db13ad048f0aa59",
+    "https://difagume.github.io/UOC_angular-ssr-app/index.html": "fa0155b909b6af071e3302fe54095f0fb0b89595",
     "https://difagume.github.io/UOC_angular-ssr-app/main.4b9c456d12d7300b0244.js": "0f37a5660f60a644ff0c099a545020996879f4fe",
     "https://difagume.github.io/UOC_angular-ssr-app/manifest.webmanifest": "3f4f296149d9f8df69ce0b45dd21bc0774ee19e9",
     "https://difagume.github.io/UOC_angular-ssr-app/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
