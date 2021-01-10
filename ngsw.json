@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1610238511419,
-  "index": "/index.html",
+  "timestamp": 1610238664173,
+  "index": "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.4b9c456d12d7300b0244.js",
-        "/manifest.webmanifest",
-        "/polyfills.8c151b8375e767ff858f.js",
-        "/runtime.0e49e2b53282f40c8925.js",
-        "/styles.3ff695c00d717f2d2a11.css"
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/favicon.ico",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/index.html",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/main.4b9c456d12d7300b0244.js",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/manifest.webmanifest",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/polyfills.8c151b8375e767ff858f.js",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/runtime.0e49e2b53282f40c8925.js",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -31,17 +31,17 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/css/animate.css",
-        "/assets/icons/apple-icon-180x180.png",
-        "/assets/icons/favicon.ico",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-48x48.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/icons/maskable_icon.png"
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/css/animate.css",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/apple-icon-180x180.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/favicon.ico",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-128x128.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-144x144.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-192x192.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-48x48.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-512x512.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-72x72.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-96x96.png",
+        "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/maskable_icon.png"
       ],
       "patterns": []
     }
@@ -63,24 +63,24 @@
     }
   ],
   "hashTable": {
-    "/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
-    "/assets/icons/apple-icon-180x180.png": "b1a6254ebc542f9aaa15756ada11b823761ad889",
-    "/assets/icons/favicon.ico": "57cfe3958a31f54af0960df355596ba95a48cab8",
-    "/assets/icons/icon-128x128.png": "43a8c568358a2c8d23d385be1990ff0a979705de",
-    "/assets/icons/icon-144x144.png": "eb8b461535fc08ed06c20ac939c2e0cebd5ac670",
-    "/assets/icons/icon-192x192.png": "3c0fdf44f5553e4b41138806830fe3e09814f520",
-    "/assets/icons/icon-48x48.png": "5451a530fcb2a0d36749853772abd5af6dc13540",
-    "/assets/icons/icon-512x512.png": "00c75a8d5bcc331d79b6067ba842766e5a38a905",
-    "/assets/icons/icon-72x72.png": "f52e03cacabc6ad471bc391a0e5bcc49373e6c10",
-    "/assets/icons/icon-96x96.png": "1e69accd307c3e5150b99752030eccf8087dfdb4",
-    "/assets/icons/maskable_icon.png": "09b66f72804e8b1fc06ed75dad4dc39b726817ba",
-    "/favicon.ico": "58bf7ca829674d30185aa21c656bca3584e2435e",
-    "/index.html": "13ad1b034b30421f274a56fab9a8ac1f193915de",
-    "/main.4b9c456d12d7300b0244.js": "0f37a5660f60a644ff0c099a545020996879f4fe",
-    "/manifest.webmanifest": "3f4f296149d9f8df69ce0b45dd21bc0774ee19e9",
-    "/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
-    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/apple-icon-180x180.png": "b1a6254ebc542f9aaa15756ada11b823761ad889",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/favicon.ico": "57cfe3958a31f54af0960df355596ba95a48cab8",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-128x128.png": "43a8c568358a2c8d23d385be1990ff0a979705de",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-144x144.png": "eb8b461535fc08ed06c20ac939c2e0cebd5ac670",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-192x192.png": "3c0fdf44f5553e4b41138806830fe3e09814f520",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-48x48.png": "5451a530fcb2a0d36749853772abd5af6dc13540",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-512x512.png": "00c75a8d5bcc331d79b6067ba842766e5a38a905",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-72x72.png": "f52e03cacabc6ad471bc391a0e5bcc49373e6c10",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/icon-96x96.png": "1e69accd307c3e5150b99752030eccf8087dfdb4",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/assets/icons/maskable_icon.png": "09b66f72804e8b1fc06ed75dad4dc39b726817ba",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/favicon.ico": "58bf7ca829674d30185aa21c656bca3584e2435e",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/index.html": "fb80fb46227ef1d519c69a285c42adc6254215cf",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/main.4b9c456d12d7300b0244.js": "0f37a5660f60a644ff0c099a545020996879f4fe",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/manifest.webmanifest": "3f4f296149d9f8df69ce0b45dd21bc0774ee19e9",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "C:\\Users\\diego.guzman\\AppData\\Local\\Programs\\Git\\https;\\\\difagume.github.io\\UOC_angular-ssr-app\\/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
